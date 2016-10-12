@@ -1,1 +1,0 @@
-As a front end web developer, The biggest web development challenge we see in our client projects is integration, over saturation, speed, securiy, talent, multi performance ability and many others. So a front-end web developer is responsible for implementing visual elements that users see and interact with in a web application. 
